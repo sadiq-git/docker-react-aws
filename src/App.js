@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Docker - Git - TravisCI - AWSElasticBeanstalk
+          Docker -> Git -> TravisCI -> AWSElasticBeanstalk
         </p>
         <a
           className="App-link"
